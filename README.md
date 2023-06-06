@@ -1,5 +1,6 @@
 # mwp_updated
 Beginning of project == start_from_here folder consists of codefilesof all extracted features from bert, fasttext, glove, tfidf, w2v.
+start_from_here folder is having the excel files for all F1 weighted scores for 5 class problem as well as three class problem.
 Anova_Bert consists of all extracted features file from bert model--250, 200, 150, 100, 50
 Anova_fastText consists of all extracted features file from FastText model--250, 200, 150, 100, 50
 Anova_glove consists of all extracted features file from glove model--250, 200, 150, 100, 50
